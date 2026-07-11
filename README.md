@@ -13,7 +13,7 @@
 <!-- ============================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%8C%B1+Founder+of+BioCycle+Pads;%F0%9F%92%A8+Managing+Director+at+OXYWALLS;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%A4%96+IoT+%26+Embedded+Systems+Developer;%E2%9C%A8+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=750&height=70&lines=%F0%9F%8C%B1+Founder+of+BioCycle+Pads;%F0%9F%92%A8+Managing+Director+at+OXYWALLS;%F0%9F%94%90+Cybersecurity+Enthusiast;%F0%9F%A4%96+IoT+%26+Developer;%E2%9C%A8+Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
 </p>
 
 <!-- ============================================= -->
