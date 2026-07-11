@@ -27,7 +27,7 @@ Startup Founder | Cybersecurity Enthusiast | IoT Developer
 
 ## 👨‍💻 About Me
 
-I am a passionate **Cybersecurity Enthusiast**, **IoT Developer**, and **Startup Founder** dedicated to building innovative solutions that create real-world impact — from sustainability to security and smart technology.
+I am a passionate **Cybersecurity Enthusiast**, **IoT Developer**, and **Startup Founder** dedicated to building innovative solutions that create real-world impact from sustainability to security and smart technology.
 
 - 🔐 **Focus Areas:** Ethical Hacking, Penetration Testing & Vulnerability Assessment  
 - 🤖 **Development:** IoT, Embedded Systems, Sensor-Based Automation  
