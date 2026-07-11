@@ -190,19 +190,6 @@ Serving as the **Managing Director** at **OXYWALLS**, a startup focused on devel
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-42403ecf95c8.gif" width="100%" />
 
 <!-- ============================================= -->
-<!-- 💬 QUOTE                                        -->
-<!-- ============================================= -->
-
-## 💭 Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-42403ecf95c8.gif" width="100%" />
-
-<!-- ============================================= -->
 <!-- 🤝 CONNECT WITH ME                             -->
 <!-- ============================================= -->
 
