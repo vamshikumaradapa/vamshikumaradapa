@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Vamshi Kumar Adapa</h1>
 
 <h3 align="center">
-  Cybersecurity Enthusiast | Startup Founder | IoT & Embedded Systems Developer
+Startup Founder | Cybersecurity Enthusiast | IoT Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Founder+of+BioCycle+Pads+%F0%9F%8C%B1;Managing+Director+at+OXYWALLS+%F0%9F%92%A8;Cybersecurity+Enthusiast+%F0%9F%94%90;IoT+%26+Embedded+Systems+Developer+%F0%9F%A4%96;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FFFF&background=0D1117&center=true&vCenter=true&width=700&height=70&lines=Founder+of+BioCycle+Pads+%F0%9F%8C%B1;Managing+Director+at+OXYWALLS+%F0%9F%92%A8;Cybersecurity+Enthusiast+%F0%9F%94%90;IoT+%26+Embedded+Systems+Developer+%F0%9F%A4%96;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
