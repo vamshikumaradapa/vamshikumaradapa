@@ -1,7 +1,7 @@
 <!-- Dark Gradient Header Banner -->
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:BD00FF,100:FF00AA&height=200&section=header&text=Vamshi%20Kumar%20Adapa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Startup Founder%20|%20Cybersecurity Enthusiast%20|%20IoT%20Developer&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,50:BD00FF,100:FF00AA&height=200&section=header&text=Vamshi%20Kumar%20Adapa&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Startup%20Founder%20|%20Cybersecurity%20Enthusiast%20|%20IoT%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 </div>
 
