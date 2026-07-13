@@ -129,19 +129,6 @@ Serving as the **Managing Director** at **OXYWALLS**, a startup focused on devel
 <!-- 🚀 FEATURED PROJECTS                           -->
 <!-- ============================================= -->
 
-## 🚀 Featured Projects
-
-### 🌐 IoT & Embedded Systems Projects
-
-| Project | Description | Technologies |
-|---|---|---|
-| [🛢️ IoT Gas Leakage Detection System](https://github.com/vamshikumaradapa/IoT-Gas-Leakage-Detection-system) | Smart system for detecting gas leaks and sending real-time safety alerts. | IoT, Sensors, Arduino |
-| [🌿 Plant Monitoring System](https://github.com/vamshikumaradapa/Plant-Monitoring-System) | Monitors plant health and environmental conditions using IoT sensors. | IoT, Embedded Systems |
-| [❤️ Health Monitoring System with GPS](https://github.com/vamshikumaradapa/Health-Monitoring-System-with-GPS) | Health monitoring solution with GPS-based location tracking. | IoT, GPS, Sensors |
-| [👁️ VisionGuard Smart Stick](https://github.com/vamshikumaradapa/VisionGuard-Smart-Stick) | Smart assistive stick for improved accessibility and safety. | IoT, Sensors, Embedded C++ |
-
-> 🔐 *Cybersecurity projects coming soon — stay tuned!*
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-42403ecf95c8.gif" width="100%" />
 
@@ -166,12 +153,6 @@ Serving as the **Managing Director** at **OXYWALLS**, a startup focused on devel
 <!-- ============================================= -->
 <!-- 🏆 GITHUB ACHIEVEMENTS                         -->
 <!-- ============================================= -->
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vamshikumaradapa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b573-42403ecf95c8.gif" width="100%" />
